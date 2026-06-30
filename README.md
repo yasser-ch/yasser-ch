@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yasser-ch
-- 👀 I’m a cyber security fourth year engineering student.
+- 👀 I’m a cyber security fifth year engineering student.
 - 🌱 I’m currently learning python, linux, forensics , ethical hacking , cryptography and information security
 - 💞️ I’m looking to collaborate on cyber-security projects or any other projects that would teach me and help me grow.
 - 📫 How to reach me : Gmail :  yasserchettour02@gmail / Linkedin :  Yasser Chettour
