@@ -97,6 +97,20 @@ A complete early-warning system for phishing, aimed at SMEs.
 
 ---
 
+## 🐍 Contribution snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yasser-ch/yasser-ch/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yasser-ch/yasser-ch/output/github-snake.svg"/>
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/yasser-ch/yasser-ch/output/github-snake-dark.svg"/>
+</picture>
+
+</div>
+
+---
+
 ## 📫 Let's connect
 
 I'm open to PFE opportunities in security. The fastest way to reach me is by email: **yasserchettour02@gmail.com**, or check my [portfolio](https://yasser-ch.github.io) for the full write-ups.
